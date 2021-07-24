@@ -39,6 +39,9 @@ build/Release
 
 # Dependency directories
 node_modules/
+counter-app/node_modules/
+react-app/node_modules/
+
 jspm_packages/
 
 # TypeScript v1 declaration files
